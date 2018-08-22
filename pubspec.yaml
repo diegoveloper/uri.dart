@@ -7,7 +7,7 @@ environment:
   sdk: '>=2.0.0-dev.18 <3.0.0'
 dependencies:
   matcher: '>=0.12.0 <0.13.0'
-  quiver: '>=0.17.0 <0.30.0'
-  utf: '>=0.8.10 <=0.10.0'
+  quiver: '>=0.17.0 <=2.0.0+1'
+  utf: '>=0.8.10 <=0.9.0+5'
 dev_dependencies:
   test: '>=0.12.0 <=0.13.0'
